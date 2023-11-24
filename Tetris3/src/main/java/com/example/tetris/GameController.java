@@ -6,7 +6,7 @@ import javafx.scene.control.Label;
 
 public class GameController {
     @FXML
-    private Canvas gameCanvas;
+    private Canvas   gameCanvas;
     @FXML
     protected Label scoreText;
 
