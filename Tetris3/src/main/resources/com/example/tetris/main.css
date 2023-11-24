@@ -1,0 +1,37 @@
+#mainPane {
+    -fx-background-image: url("backgroundImg.jpg");
+    -fx-background-size: cover;
+    -fx-background-position: center;
+}
+
+.btn {
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-background-color: rgb(65, 105, 225);
+    -fx-text-fill: white;
+    -fx-font-weight: bolder;
+    -fx-border : none;
+    -fx-padding: 8px 12px;
+    -fx-font-size: 14px;
+    -fx-font-family: "Arial Black";
+}
+
+.btn-start {
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-background-color: rgb(65, 105, 225);
+    -fx-text-fill: white;
+    -fx-font-weight: bolder;
+    -fx-border : none;
+    -fx-padding: 8px 12px;
+    -fx-font-size: 22px;
+    -fx-font-family: "Arial Black";
+}
+
+.btn:hover {
+    -fx-background-color: rgb(0, 0, 139);
+}
+
+.btn-start:hover {
+    -fx-background-color: rgb(0, 0, 139);
+}

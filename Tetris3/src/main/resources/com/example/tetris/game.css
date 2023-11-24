@@ -1,0 +1,5 @@
+#mainPane {
+    -fx-background-image: url("BgImg.jpg");
+    -fx-background-size: cover;
+    -fx-background-position: center;
+}

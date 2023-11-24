@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="mainPane" prefHeight="816.0" prefWidth="600.0" stylesheets="@game.css" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.tetris.GameController">
+   <children>
+      <Canvas fx:id="gameCanvas" height="804.0" layoutX="14.0" layoutY="6.0" width="404.0" AnchorPane.leftAnchor="14.0" />
+   </children>
+</AnchorPane>
